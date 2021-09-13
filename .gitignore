@@ -1,7 +1,7 @@
 .idea
 /Deeplearning/Kaggle/Snek/test/
 /Deeplearning/Kaggle/Snek/train/
-
+*.jpeg
 /Deeplearning/Kaggle/Fishclassify/Fish_Dataset/
 /Deeplearning/Kaggle/Fishclassify/NA_Fish_Dataset/
 /Deeplearning/SolarFlares/SDOBenchmark_example/
